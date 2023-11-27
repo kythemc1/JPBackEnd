@@ -34,4 +34,7 @@ public class ListenEntity {
 
     @Column(name = "role")
     private String role;
+
+    @Column(name = "level")
+    private String level;
 }

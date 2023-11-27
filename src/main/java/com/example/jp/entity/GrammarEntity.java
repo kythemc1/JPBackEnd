@@ -26,7 +26,8 @@ public class GrammarEntity {
     @Column(name = "more")
     private String more;
 
-
+    @Column(name = "level")
+    private String level;
 
 }
 
